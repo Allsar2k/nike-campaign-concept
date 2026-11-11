@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" role="img" aria-labelledby="t d">
+  <title id="t">Nike "Show Up" campaign concept</title>
+  <desc id="d">Black background with three slanted volt and orange pace lines. Large slanted white text reads Show Up, with the line "The hardest part is the first time." and campaign concept by Chris Williams.</desc>
+  <rect width="1000" height="500" fill="#0B0B0C"/>
+  <g transform="skewX(-18)">
+    <rect x="830" y="0" width="34" height="500" fill="#D4FF3A"/>
+    <rect x="900" y="0" width="34" height="500" fill="#D4FF3A" opacity="0.55"/>
+    <rect x="970" y="0" width="34" height="500" fill="#FF6A2B"/>
+  </g>
+  <text x="70" y="110" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4" fill="#D4FF3A">NIKE · CAMPAIGN CONCEPT</text>
+  <text x="62" y="290" font-family="'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-size="180" font-weight="800" font-style="italic" letter-spacing="-3" fill="#F7F7F2">SHOW UP</text>
+  <text x="70" y="358" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="28" fill="#F7F7F2">The hardest part is the first time.</text>
+  <text x="70" y="420" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#B4B4AC">Chris Williams · Product Marketing Concepts</text>
+</svg>

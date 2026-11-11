@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="t d">
+  <title id="t">Running brand positioning map</title>
+  <desc id="d">Brands plotted by message, performance at the top and community at the bottom, and price, accessible on the left and premium on the right. Brooks and Adidas sit at performance and accessible. Hoka and On sit at performance and premium. New Balance sits at community and premium, locally. The community and accessible quarter is empty and marked as the open space for Nike's Show Up campaign.</desc>
+  <rect width="1200" height="720" fill="#0B0B0C"/>
+  <g font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <text x="60" y="64" font-size="15" font-weight="700" letter-spacing="3" fill="#D4FF3A">COMPETITIVE ANALYSIS</text>
+    <text x="60" y="108" font-family="'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="800" font-style="italic" fill="#F7F7F2">WHERE THE ROOM IS</text>
+    <rect x="140" y="150" width="1000" height="480" fill="none" stroke="#2E2E33" stroke-width="2"/>
+    <line x1="640" y1="150" x2="640" y2="630" stroke="#2E2E33" stroke-width="2"/>
+    <line x1="140" y1="390" x2="1140" y2="390" stroke="#2E2E33" stroke-width="2"/>
+    <text x="140" y="668" font-size="16" fill="#B4B4AC">← ACCESSIBLE PRICE</text>
+    <text x="1140" y="668" text-anchor="end" font-size="16" fill="#B4B4AC">PREMIUM PRICE →</text>
+    <text x="100" y="330" font-size="16" fill="#B4B4AC" transform="rotate(-90 100 330)">PERFORMANCE MESSAGE</text>
+    <text x="100" y="620" font-size="16" fill="#B4B4AC" transform="rotate(-90 100 620)">COMMUNITY MESSAGE</text>
+    <circle cx="300" cy="240" r="12" fill="#F7F7F2"/><text x="322" y="247" font-size="22" font-weight="600" fill="#F7F7F2">Brooks</text>
+    <circle cx="470" cy="320" r="12" fill="#F7F7F2"/><text x="492" y="327" font-size="22" font-weight="600" fill="#F7F7F2">Adidas</text>
+    <circle cx="820" cy="230" r="12" fill="#F7F7F2"/><text x="842" y="237" font-size="22" font-weight="600" fill="#F7F7F2">Hoka</text>
+    <circle cx="980" cy="300" r="12" fill="#F7F7F2"/><text x="1002" y="307" font-size="22" font-weight="600" fill="#F7F7F2">On</text>
+    <circle cx="900" cy="520" r="12" fill="#F7F7F2"/><text x="922" y="527" font-size="22" font-weight="600" fill="#F7F7F2">New Balance (local)</text>
+    <rect x="170" y="420" width="440" height="180" fill="none" stroke="#D4FF3A" stroke-width="3" stroke-dasharray="10 8"/>
+    <text x="196" y="466" font-size="14" font-weight="700" letter-spacing="2.5" fill="#D4FF3A">OPEN SPACE</text>
+    <text x="196" y="520" font-family="'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" font-style="italic" fill="#D4FF3A">NIKE · SHOW UP</text>
+    <text x="196" y="560" font-size="18" fill="#F7F7F2">Community, every pace, every city:</text>
+    <text x="196" y="586" font-size="18" fill="#F7F7F2">NRC app + stores + reach.</text>
+  </g>
+</svg>

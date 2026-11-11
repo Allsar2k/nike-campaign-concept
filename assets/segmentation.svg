@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="t d">
+  <title id="t">Gen Z runner segmentation</title>
+  <desc id="d">A two-by-two matrix. Horizontal axis: why they run, from social on the left to performance on the right. Vertical axis: commitment, from curious at the bottom to committed at the top. Social Starters, social and curious, 35 percent, primary target. Comeback Athletes, between social and performance, regular, 20 percent, secondary target. Goal Chasers, performance and committed, 25 percent, supporting as pacers. Style-First Wearers, low commitment, 20 percent, not targeted.</desc>
+  <rect width="1200" height="720" fill="#0B0B0C"/>
+  <g font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <text x="60" y="64" font-size="15" font-weight="700" letter-spacing="3" fill="#D4FF3A">AUDIENCE SEGMENTATION · GEN Z RUNNERS</text>
+    <text x="60" y="108" font-family="'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="800" font-style="italic" fill="#F7F7F2">WHO WE'RE TALKING TO</text>
+    <rect x="140" y="150" width="1000" height="480" fill="none" stroke="#2E2E33" stroke-width="2"/>
+    <line x1="640" y1="150" x2="640" y2="630" stroke="#2E2E33" stroke-width="2"/>
+    <line x1="140" y1="390" x2="1140" y2="390" stroke="#2E2E33" stroke-width="2"/>
+    <text x="140" y="668" font-size="16" fill="#B4B4AC">← SOCIAL: friends, community</text>
+    <text x="1140" y="668" text-anchor="end" font-size="16" fill="#B4B4AC">PERFORMANCE: times, races →</text>
+    <text x="100" y="620" font-size="16" fill="#B4B4AC" transform="rotate(-90 100 620)">CURIOUS → COMMITTED</text>
+    <!-- Social Starters: primary -->
+    <rect x="170" y="420" width="440" height="180" fill="#D4FF3A"/>
+    <text x="196" y="462" font-size="14" font-weight="700" letter-spacing="2.5" fill="#0B0B0C">PRIMARY TARGET · 35%</text>
+    <text x="196" y="510" font-family="'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" font-style="italic" fill="#0B0B0C">SOCIAL STARTERS</text>
+    <text x="196" y="548" font-size="18" fill="#0B0B0C">New to a city, curious about run clubs.</text>
+    <text x="196" y="574" font-size="18" fill="#0B0B0C">“I’m too slow” is the barrier.</text>
+    <!-- Comeback Athletes: secondary -->
+    <rect x="420" y="180" width="400" height="180" fill="#18181B" stroke="#FF6A2B" stroke-width="3"/>
+    <text x="446" y="222" font-size="14" font-weight="700" letter-spacing="2.5" fill="#FF6A2B">SECONDARY TARGET · 20%</text>
+    <text x="446" y="270" font-family="'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-size="36" font-weight="800" font-style="italic" fill="#F7F7F2">COMEBACK ATHLETES</text>
+    <text x="446" y="306" font-size="17" fill="#B4B4AC">Played in school, miss the team.</text>
+    <text x="446" y="332" font-size="17" fill="#B4B4AC">Ready to compete again.</text>
+    <!-- Goal Chasers -->
+    <rect x="860" y="180" width="260" height="180" fill="#18181B" stroke="#2E2E33" stroke-width="2"/>
+    <text x="884" y="222" font-size="14" font-weight="700" letter-spacing="2.5" fill="#B4B4AC">PACERS · 25%</text>
+    <text x="884" y="268" font-family="'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="800" font-style="italic" fill="#F7F7F2">GOAL CHASERS</text>
+    <text x="884" y="304" font-size="17" fill="#B4B4AC">First 5K to half.</text>
+    <text x="884" y="330" font-size="17" fill="#B4B4AC">They lead groups.</text>
+    <!-- Style-first -->
+    <rect x="860" y="460" width="260" height="140" fill="#18181B" stroke="#2E2E33" stroke-width="2" stroke-dasharray="6 6"/>
+    <text x="884" y="502" font-size="14" font-weight="700" letter-spacing="2.5" fill="#B4B4AC">NOT TARGETED · 20%</text>
+    <text x="884" y="544" font-family="'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="800" font-style="italic" fill="#B4B4AC">STYLE-FIRST</text>
+    <text x="884" y="576" font-size="17" fill="#B4B4AC">Wear runners, rarely run.</text>
+  </g>
+</svg>

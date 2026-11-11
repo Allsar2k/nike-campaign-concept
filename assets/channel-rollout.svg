@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="t d">
+  <title id="t">Show Up channel rollout over 12 weeks</title>
+  <desc id="d">Gantt chart. Seed phase weeks 1 to 4, launch weeks 5 to 6, sustain weeks 7 to 12. Run club partnerships run weeks 1 to 12. Creators and athletes weeks 3 to 12. Hero film and social video weeks 5 to 8, launching in week 5. Nike Run Club app weeks 5 to 12. Strava challenge weeks 5 to 12. Store group runs weeks 6 to 12.</desc>
+  <rect width="1200" height="640" fill="#0B0B0C"/>
+  <g font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <text x="60" y="64" font-size="15" font-weight="700" letter-spacing="3" fill="#D4FF3A">CHANNEL-BY-CHANNEL ROLLOUT</text>
+    <text x="60" y="108" font-family="'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="800" font-style="italic" fill="#F7F7F2">TWELVE WEEKS, ONE HABIT</text>
+    <!-- phases -->
+    <rect x="330" y="140" width="280" height="40" fill="#18181B"/><text x="346" y="166" font-size="15" font-weight="700" letter-spacing="2" fill="#B4B4AC">SEED · WK 1–4</text>
+    <rect x="610" y="140" width="140" height="40" fill="#FF6A2B"/><text x="626" y="166" font-size="15" font-weight="700" letter-spacing="1" fill="#0B0B0C">LAUNCH 5–6</text>
+    <rect x="750" y="140" width="420" height="40" fill="#18181B"/><text x="766" y="166" font-size="15" font-weight="700" letter-spacing="2" fill="#B4B4AC">SUSTAIN · WK 7–12</text>
+    <line x1="330" y1="196" x2="330" y2="590" stroke="#2E2E33" stroke-width="1"/>
+    <line x1="400" y1="196" x2="400" y2="590" stroke="#2E2E33" stroke-width="1"/>
+    <line x1="470" y1="196" x2="470" y2="590" stroke="#2E2E33" stroke-width="1"/>
+    <line x1="540" y1="196" x2="540" y2="590" stroke="#2E2E33" stroke-width="1"/>
+    <line x1="610" y1="196" x2="610" y2="590" stroke="#2E2E33" stroke-width="1"/>
+    <line x1="680" y1="196" x2="680" y2="590" stroke="#2E2E33" stroke-width="1"/>
+    <line x1="750" y1="196" x2="750" y2="590" stroke="#2E2E33" stroke-width="1"/>
+    <line x1="820" y1="196" x2="820" y2="590" stroke="#2E2E33" stroke-width="1"/>
+    <line x1="890" y1="196" x2="890" y2="590" stroke="#2E2E33" stroke-width="1"/>
+    <line x1="960" y1="196" x2="960" y2="590" stroke="#2E2E33" stroke-width="1"/>
+    <line x1="1030" y1="196" x2="1030" y2="590" stroke="#2E2E33" stroke-width="1"/>
+    <line x1="1100" y1="196" x2="1100" y2="590" stroke="#2E2E33" stroke-width="1"/>
+    <line x1="1170" y1="196" x2="1170" y2="590" stroke="#2E2E33" stroke-width="1"/>
+    <text x="365" y="616" text-anchor="middle" font-size="14" fill="#B4B4AC">1</text>
+    <text x="435" y="616" text-anchor="middle" font-size="14" fill="#B4B4AC">2</text>
+    <text x="505" y="616" text-anchor="middle" font-size="14" fill="#B4B4AC">3</text>
+    <text x="575" y="616" text-anchor="middle" font-size="14" fill="#B4B4AC">4</text>
+    <text x="645" y="616" text-anchor="middle" font-size="14" fill="#B4B4AC">5</text>
+    <text x="715" y="616" text-anchor="middle" font-size="14" fill="#B4B4AC">6</text>
+    <text x="785" y="616" text-anchor="middle" font-size="14" fill="#B4B4AC">7</text>
+    <text x="855" y="616" text-anchor="middle" font-size="14" fill="#B4B4AC">8</text>
+    <text x="925" y="616" text-anchor="middle" font-size="14" fill="#B4B4AC">9</text>
+    <text x="995" y="616" text-anchor="middle" font-size="14" fill="#B4B4AC">10</text>
+    <text x="1065" y="616" text-anchor="middle" font-size="14" fill="#B4B4AC">11</text>
+    <text x="1135" y="616" text-anchor="middle" font-size="14" fill="#B4B4AC">12</text>
+    <text x="60" y="240" font-size="20" font-weight="600" fill="#F7F7F2">Run club partnerships</text><rect x="334" y="218" width="832" height="32" fill="#F7F7F2"/>
+    <text x="60" y="304" font-size="20" font-weight="600" fill="#F7F7F2">Creators and athletes</text><rect x="474" y="282" width="692" height="32" fill="#F7F7F2"/>
+    <text x="60" y="368" font-size="20" font-weight="600" fill="#F7F7F2">Hero film and social</text><rect x="614" y="346" width="272" height="32" fill="#F7F7F2"/>
+    <text x="60" y="432" font-size="20" font-weight="600" fill="#F7F7F2">Nike Run Club app</text><rect x="614" y="410" width="552" height="32" fill="#F7F7F2"/>
+    <text x="60" y="496" font-size="20" font-weight="600" fill="#F7F7F2">Strava challenge</text><rect x="614" y="474" width="552" height="32" fill="#F7F7F2"/>
+    <text x="60" y="560" font-size="20" font-weight="600" fill="#F7F7F2">Store group runs</text><rect x="684" y="538" width="482" height="32" fill="#F7F7F2"/>
+    <text x="60" y="616" font-size="14" fill="#B4B4AC">WEEK</text>
+  </g>
+</svg>
